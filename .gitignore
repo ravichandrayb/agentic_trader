@@ -1,0 +1,42 @@
+# Environment files
+*.env
+kite.env
+telegram.env
+
+# Python virtual environment
+venv/
+env/
+.venv/
+.python-version
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Data and report directories
+data/
+reports/
+logs/
+
+# IDE specific files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Local development configuration
+local_settings.py

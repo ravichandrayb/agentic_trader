@@ -1,0 +1,12 @@
+langchain
+langgraph
+openai
+pandas
+pandas_ta
+vectorbt
+kiteconnect
+duckdb
+python-dotenv
+pyarrow
+duckdb
+fastparquet
