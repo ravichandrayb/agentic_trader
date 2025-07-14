@@ -1,4 +1,4 @@
-# 📊 Stock Strategy LangGraph
+# 📊 Stock Trading Strategy using AI agents with LangGraph
 
 An AI-powered, agentic framework to generate, backtest, evaluate, and report trading strategies for Indian stock market equities using Zerodha Kite, LangGraph, and vectorbt.
 
