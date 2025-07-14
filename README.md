@@ -58,6 +58,7 @@ pip install -r requirements.txt
 KITE_API_KEY=your_key
 KITE_API_SECRET=your_secret
 KITE_ACCESS_TOKEN=your_token
+OPEN_AI_SECRET=your_secret
 
 3. Run CLI Pipeline
 python main.py
